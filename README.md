@@ -17,5 +17,4 @@ In this task, I worked on data preparation and preprocessing to ensure the datas
 
 📂 Task on GitHub 👇
 🔗 [Linkedin Link]
-www.linkedin.com/in/
-ahmed-abdelaziz-51873236a
+www.linkedin.com/in/ahmed-abdelaziz-51873236a

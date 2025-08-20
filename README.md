@@ -1,4 +1,4 @@
-📌 Task 6 – Data Preparation & Preprocessing in Excel
+📌 Task 5 – Data Preparation & Preprocessing in Excel
 🚀 Just completed my sixth Excel task as part of my Data Analytics training!
 
 In this task, I worked on data preparation and preprocessing to ensure the dataset was clean, consistent, and ready for analysis. My work included:
